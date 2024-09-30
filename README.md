@@ -2,7 +2,11 @@
 
 This repository integrates [Tabler Icons](https://tabler.io/icons) and makes them available through the Swift Package Manager (SPM). With this package, you can easily use Tabler icons in your macOS and iOS applications.
 
-> **Tabler version used: `v3.16.0`**
+## Features
+
+- Supports both filled and outlined versions
+- Type safe, you just use `TablerIcons` 😉
+- **Tabler version used: `v3.16.0`**
 
 ## Installation Guide
 
@@ -12,7 +16,7 @@ To install this package using Swift Package Manager, follow these steps:
 2. Select your project in the Project Navigator.
 3. Choose the `Package Dependencies` tab.
 4. Click the `+` button to add a new package dependency.
-5. Enter the URL of this repository: `https://github.com/yourusername/lucide-icons-swift.git`.
+5. Enter the URL of this repository: `https://github.com/YazeedAlKhalaf/tabler-icons-swift.git`.
 6. Select the version you want to use, then click `Add Package`.
 
 ## Usage
@@ -29,30 +33,22 @@ import TablerIcons
 
 ## Usage for iOS
 
-For iOS, the `UIImage` extension provides a convenient initializer that loads images by their Tabler ID directly from the module's bundle:
+For iOS, the `UIImage` extension provides a convenient initializer that loads images by their Tabler name directly from the module's bundle:
 
 ```swift
 import UIKit
 
-let image: UIImage = TablerIcons.tada
-
-if let icon: UIImage? = .init(tablerId: "tada") {
-    // Use your icon
-}
+let image: UIImage = TablerIcons.appleFilled
 ```
 
 ## Usage for macOS
 
-For macOS, the NSImage extension offers a static function that fetches images by their Tabler ID from the module’s bundle:
+For macOS, the NSImage extension offers a static function that fetches images by their Tabler name from the module’s bundle:
 
 ```swift
 import AppKit
 
-let image: NSImage = TablerIcons.tada
-
-if let icon = NSImage.image(tablerId: "yourIconId") {
-    // Use your icon
-}
+let image: NSImage = TablerIcons.appleFilled
 ```
 
 ## Usage for SwiftUI
@@ -64,24 +60,10 @@ import TablerIcons
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(nsImage: TablerIcons.tada) // For macOS
-            Image(uiImage: TablerIcons.tada) // For iOS
+            Image(nsImage: TablerIcons.appleFilled) // For macOS
+            Image(uiImage: TablerIcons.appleFilled) // For iOS
             Text("Hello, Tabler Icons!")
         }
-    }
-}
-
-struct ContentView: View {
-    var body: some View {
-        #if canImport(UIKit)
-        if let uiImage = UIImage(tablerId: "tada") {
-            Image(uiImage: uiImage)
-        }
-        #elseif canImport(AppKit)
-        if let nsImage = NSImage.image(tablerId: "tada") {
-            Image(nsImage: nsImage)
-        }
-        #endif
     }
 }
 ```

@@ -1,11 +1,11 @@
 #! /bin/sh
 
-tabler_icons_path="${tabler_icons_path}"
+tabler_icons_path="/Users/yazeedalkhalaf/Downloads/tabler-icons-3.16.0"
 
 rm -rf Sources/TablerIcons/Icons.xcassets
 mkdir -p Sources/TablerIcons/Icons.xcassets
 
-for icon in "${tabler_icons_path}/svg/outline/*.svg"; do
+for icon in ${tabler_icons_path}/svg/outline/*.svg; do
     echo "copying ${icon}"
     icon_name=$(basename "$icon" .svg)
     icon_name="${icon_name}-outlined"
@@ -28,7 +28,7 @@ EOF
 done
 git add "Sources/TablerIcons/Icons.xcassets"
 
-for icon in "${tabler_icons_path}/svg/filled/*.svg"; do
+for icon in ${tabler_icons_path}/svg/filled/*.svg; do
     echo "copying ${icon}"
     icon_name=$(basename "$icon" .svg)
     icon_name="${icon_name}-filled"

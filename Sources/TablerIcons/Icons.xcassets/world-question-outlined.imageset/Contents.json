@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "world-question-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

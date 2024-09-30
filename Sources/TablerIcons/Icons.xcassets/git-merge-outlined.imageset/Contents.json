@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "git-merge-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "layout-align-middle-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

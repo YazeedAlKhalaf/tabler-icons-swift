@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-youtube-kids-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

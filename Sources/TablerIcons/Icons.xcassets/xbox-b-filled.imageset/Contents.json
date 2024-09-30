@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "xbox-b-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

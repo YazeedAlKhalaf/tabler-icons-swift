@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "layout-distribute-horizontal-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

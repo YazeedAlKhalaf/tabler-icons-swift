@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "devices-bolt-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

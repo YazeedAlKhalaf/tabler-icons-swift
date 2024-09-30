@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-hackerrank-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

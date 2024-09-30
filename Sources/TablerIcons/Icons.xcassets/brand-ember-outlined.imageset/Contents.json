@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-ember-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

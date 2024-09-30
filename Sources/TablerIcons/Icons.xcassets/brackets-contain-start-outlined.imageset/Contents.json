@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brackets-contain-start-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

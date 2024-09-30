@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "eye-dotted-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

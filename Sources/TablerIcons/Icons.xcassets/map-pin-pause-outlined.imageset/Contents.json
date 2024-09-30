@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "map-pin-pause-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

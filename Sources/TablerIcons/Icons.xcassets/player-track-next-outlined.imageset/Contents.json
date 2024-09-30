@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "player-track-next-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "premium-rights-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

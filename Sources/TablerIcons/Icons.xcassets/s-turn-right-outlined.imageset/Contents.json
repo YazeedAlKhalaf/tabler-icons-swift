@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "s-turn-right-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

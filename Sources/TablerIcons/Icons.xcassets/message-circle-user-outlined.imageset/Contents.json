@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "message-circle-user-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

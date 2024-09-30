@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "square-chevron-left-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

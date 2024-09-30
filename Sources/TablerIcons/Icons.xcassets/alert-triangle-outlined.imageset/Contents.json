@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "alert-triangle-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

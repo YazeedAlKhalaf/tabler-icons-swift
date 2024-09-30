@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "glass-gin-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

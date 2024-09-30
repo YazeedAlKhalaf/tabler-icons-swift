@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "rating-16-plus-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

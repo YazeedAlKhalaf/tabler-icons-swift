@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "caret-left-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "align-box-center-top-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

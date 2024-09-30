@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "triangle-square-circle-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

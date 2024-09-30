@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-ok-ru-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

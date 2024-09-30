@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "heart-minus-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

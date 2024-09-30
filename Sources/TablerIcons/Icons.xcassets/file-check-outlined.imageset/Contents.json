@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "file-check-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

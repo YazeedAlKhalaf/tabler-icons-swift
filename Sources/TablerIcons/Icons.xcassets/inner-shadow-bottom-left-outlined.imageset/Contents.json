@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "inner-shadow-bottom-left-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

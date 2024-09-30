@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lasso-polygon-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

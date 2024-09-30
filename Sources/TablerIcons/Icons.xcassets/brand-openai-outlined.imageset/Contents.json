@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-openai-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

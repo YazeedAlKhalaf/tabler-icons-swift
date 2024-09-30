@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-openvpn-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

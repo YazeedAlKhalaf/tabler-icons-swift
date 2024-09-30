@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lock-password-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

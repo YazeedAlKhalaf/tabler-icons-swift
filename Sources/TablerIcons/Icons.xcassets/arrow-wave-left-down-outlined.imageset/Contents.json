@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "arrow-wave-left-down-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "message-2-pin-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

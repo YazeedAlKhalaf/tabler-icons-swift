@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "device-tablet-up-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

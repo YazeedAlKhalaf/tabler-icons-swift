@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-beats-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

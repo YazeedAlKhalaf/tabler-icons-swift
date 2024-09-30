@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "users-group-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

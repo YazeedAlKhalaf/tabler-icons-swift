@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "device-mobile-minus-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

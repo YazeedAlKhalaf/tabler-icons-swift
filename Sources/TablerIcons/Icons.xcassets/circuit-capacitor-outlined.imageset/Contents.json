@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "circuit-capacitor-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

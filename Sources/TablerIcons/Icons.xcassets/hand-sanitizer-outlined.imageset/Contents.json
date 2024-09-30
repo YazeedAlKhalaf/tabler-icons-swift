@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "hand-sanitizer-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

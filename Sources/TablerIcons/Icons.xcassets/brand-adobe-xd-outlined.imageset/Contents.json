@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-adobe-xd-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

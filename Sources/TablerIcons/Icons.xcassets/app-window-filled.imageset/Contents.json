@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "app-window-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

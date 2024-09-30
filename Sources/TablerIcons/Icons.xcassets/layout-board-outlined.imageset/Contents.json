@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "layout-board-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

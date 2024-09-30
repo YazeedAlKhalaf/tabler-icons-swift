@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "prism-light-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

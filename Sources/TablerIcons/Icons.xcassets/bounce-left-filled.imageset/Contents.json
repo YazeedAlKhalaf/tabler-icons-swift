@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "bounce-left-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

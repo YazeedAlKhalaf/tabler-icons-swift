@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "chevrons-down-left-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

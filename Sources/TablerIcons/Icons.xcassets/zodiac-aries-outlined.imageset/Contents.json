@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "zodiac-aries-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

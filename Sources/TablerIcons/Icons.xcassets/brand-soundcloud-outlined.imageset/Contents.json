@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-soundcloud-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

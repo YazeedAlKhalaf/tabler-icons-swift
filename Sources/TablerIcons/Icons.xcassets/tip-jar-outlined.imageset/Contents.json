@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "tip-jar-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

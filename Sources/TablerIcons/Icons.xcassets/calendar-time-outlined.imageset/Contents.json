@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "calendar-time-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

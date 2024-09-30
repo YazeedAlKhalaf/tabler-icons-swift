@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "sport-billard-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

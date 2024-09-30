@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "help-square-rounded-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

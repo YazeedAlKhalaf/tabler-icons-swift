@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "square-rounded-letter-u-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

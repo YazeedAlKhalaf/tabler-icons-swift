@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-torchain-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

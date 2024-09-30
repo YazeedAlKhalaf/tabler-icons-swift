@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "arrow-rotary-right-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

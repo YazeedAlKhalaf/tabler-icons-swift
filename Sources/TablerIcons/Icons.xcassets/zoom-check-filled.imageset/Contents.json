@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "zoom-check-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

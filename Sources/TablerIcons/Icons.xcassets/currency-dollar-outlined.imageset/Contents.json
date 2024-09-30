@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "currency-dollar-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "pencil-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

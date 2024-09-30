@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "separator-vertical-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

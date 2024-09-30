@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lock-bolt-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

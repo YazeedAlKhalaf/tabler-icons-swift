@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "plane-arrival-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

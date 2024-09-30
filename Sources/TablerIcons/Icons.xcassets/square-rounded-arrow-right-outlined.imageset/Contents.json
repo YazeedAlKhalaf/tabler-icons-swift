@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "square-rounded-arrow-right-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

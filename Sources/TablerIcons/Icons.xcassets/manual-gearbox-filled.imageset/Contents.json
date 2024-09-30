@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "manual-gearbox-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

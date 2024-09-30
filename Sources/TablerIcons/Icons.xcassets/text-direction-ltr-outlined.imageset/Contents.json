@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "text-direction-ltr-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

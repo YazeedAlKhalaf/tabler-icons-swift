@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "gender-demigirl-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

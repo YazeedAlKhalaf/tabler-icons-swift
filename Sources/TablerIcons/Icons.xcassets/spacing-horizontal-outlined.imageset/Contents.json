@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "spacing-horizontal-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

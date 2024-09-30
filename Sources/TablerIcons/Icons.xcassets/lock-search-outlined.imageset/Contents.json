@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lock-search-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

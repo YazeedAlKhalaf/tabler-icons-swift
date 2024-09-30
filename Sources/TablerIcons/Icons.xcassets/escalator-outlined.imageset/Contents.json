@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "escalator-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

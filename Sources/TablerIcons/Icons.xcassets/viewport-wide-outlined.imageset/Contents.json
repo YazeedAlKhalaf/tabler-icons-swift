@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "viewport-wide-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

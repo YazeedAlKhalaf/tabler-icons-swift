@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "camera-cog-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

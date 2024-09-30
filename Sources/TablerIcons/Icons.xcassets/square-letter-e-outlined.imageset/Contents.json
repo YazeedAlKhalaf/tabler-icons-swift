@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "square-letter-e-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

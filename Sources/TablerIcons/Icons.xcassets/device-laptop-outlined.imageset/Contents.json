@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "device-laptop-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

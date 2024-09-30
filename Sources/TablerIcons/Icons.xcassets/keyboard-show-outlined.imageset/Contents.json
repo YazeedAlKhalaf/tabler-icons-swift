@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "keyboard-show-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

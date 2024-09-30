@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "filter-up-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

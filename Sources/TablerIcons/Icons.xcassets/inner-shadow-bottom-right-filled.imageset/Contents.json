@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "inner-shadow-bottom-right-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

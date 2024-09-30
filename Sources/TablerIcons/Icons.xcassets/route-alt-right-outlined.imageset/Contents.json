@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "route-alt-right-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

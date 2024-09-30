@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "player-play-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

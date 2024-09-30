@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "square-letter-k-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

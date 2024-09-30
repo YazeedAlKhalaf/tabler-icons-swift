@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "error-404-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

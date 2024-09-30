@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "blockquote-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

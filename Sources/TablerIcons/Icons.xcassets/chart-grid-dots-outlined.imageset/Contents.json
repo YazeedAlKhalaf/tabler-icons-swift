@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "chart-grid-dots-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

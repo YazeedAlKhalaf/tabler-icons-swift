@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "battery-off-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

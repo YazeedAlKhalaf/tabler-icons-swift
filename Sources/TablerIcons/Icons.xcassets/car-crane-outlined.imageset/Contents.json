@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "car-crane-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "arrow-move-left-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

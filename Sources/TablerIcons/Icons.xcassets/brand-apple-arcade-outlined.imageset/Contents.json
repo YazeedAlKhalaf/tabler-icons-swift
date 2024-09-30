@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-apple-arcade-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

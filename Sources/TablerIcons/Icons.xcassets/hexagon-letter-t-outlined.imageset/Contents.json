@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "hexagon-letter-t-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

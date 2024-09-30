@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "sort-ascending-small-big-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

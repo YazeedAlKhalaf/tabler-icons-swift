@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "cone-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

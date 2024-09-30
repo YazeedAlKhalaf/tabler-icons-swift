@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "world-www-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

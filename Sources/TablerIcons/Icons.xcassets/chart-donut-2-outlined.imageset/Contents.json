@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "chart-donut-2-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

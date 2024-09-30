@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "activity-heartbeat-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

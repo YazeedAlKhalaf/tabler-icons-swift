@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "propeller-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

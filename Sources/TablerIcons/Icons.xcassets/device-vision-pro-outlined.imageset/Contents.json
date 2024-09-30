@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "device-vision-pro-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lifebuoy-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

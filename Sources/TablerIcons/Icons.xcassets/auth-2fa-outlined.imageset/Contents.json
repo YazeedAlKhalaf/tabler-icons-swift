@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "auth-2fa-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "arrow-big-right-line-filled.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

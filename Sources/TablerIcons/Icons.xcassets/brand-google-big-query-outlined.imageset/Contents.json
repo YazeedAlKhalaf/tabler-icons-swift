@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "brand-google-big-query-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

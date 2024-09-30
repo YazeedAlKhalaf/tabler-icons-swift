@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "arrow-autofit-up-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

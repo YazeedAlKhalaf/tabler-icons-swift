@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "pointer-exclamation-outlined.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
